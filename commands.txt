@@ -11,6 +11,6 @@ git add .
 git commit -m "First commit"
 git remote add origin https://github.com/BoiAkay/AbhishekResume.git
 git branch
+git push --set-upstream origin main
 git push origin main
 history
-git push --set-upstream origin main
