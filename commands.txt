@@ -1,0 +1,16 @@
+cd Desktop
+mkdir Bhai_resume
+cd Bhai_resume
+pwd
+code .
+pwd
+git init
+ls -all
+git status -uno
+git add .
+git commit -m "First commit"
+git remote add origin https://github.com/BoiAkay/AbhishekResume.git
+git branch
+git push origin main
+history
+git push --set-upstream origin main
